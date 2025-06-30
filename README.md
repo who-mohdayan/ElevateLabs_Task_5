@@ -8,8 +8,4 @@ This repository contains my submission for **Task 5** of the ElevateLabs Interns
 
 ## 🌐 Live Website
 
-🔗 [Click here to view the site](https://<your-username>.github.io/ElevateLabs_Task_5/)
-
-> Replace `<your-username>` with your GitHub username in the link above.
-
 ---
