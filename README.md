@@ -1,1 +1,15 @@
-# ElevateLabs_Task_5
+# Task 5 – Deploy a Static Website using GitHub Pages
+
+👋 Hello! I'm **Ayan**, a Web Development Intern from **Galgotias University**.
+
+This repository contains my submission for **Task 5** of the ElevateLabs Internship Program, which involved deploying a simple static website using GitHub Pages.
+
+---
+
+## 🌐 Live Website
+
+🔗 [Click here to view the site](https://<your-username>.github.io/ElevateLabs_Task_5/)
+
+> Replace `<your-username>` with your GitHub username in the link above.
+
+---
